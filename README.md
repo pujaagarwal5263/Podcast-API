@@ -1,4 +1,6 @@
-# Audio-Video Streaming
+# Podcast API
+This is a project with 2 databases: `users` and `podcasts`\
+There are different APIs to perform CRUD operations on databases.
 
 ### Setup Postgres in Docker
 
